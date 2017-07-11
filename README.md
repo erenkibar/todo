@@ -14,10 +14,9 @@ Just clone the repository to get started.
 git clone http://github.com/erenkibar/todo.git
 
 ````
-````
 ### Dependencies
-	Python 3
 ````
+	Python 3
 ````
 ## Usage
 You can start the program with:
