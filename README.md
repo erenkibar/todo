@@ -18,6 +18,7 @@ git clone http://github.com/erenkibar/todo.git
 ### Dependencies
 	Python 3
 ````
+````
 ## Usage
 You can start the program with:
 
@@ -49,7 +50,7 @@ No:   	 Task:                	 Deadline:
 1     	 Do this              	 2017.07.13
 2     	 Do that              	 2017.07.13
 
-./todo.py remove 1
+/todo.py remove 1
  
 output:
 No:   	 Task:                	 Deadline:
